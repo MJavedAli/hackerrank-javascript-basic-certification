@@ -1,6 +1,6 @@
 # hackerrank-javascript-basic-certification
 
-https://github.com/MJavedAli/hackerrank-javascript-basic-certification/blob/main/javascript-basic-certificate.PNG
+![image](https://user-images.githubusercontent.com/30997178/158071495-6929e045-2e4f-4219-949d-c34bdce92092.png)
 
 ## 1. JavaScript: Champions League Teams
 
